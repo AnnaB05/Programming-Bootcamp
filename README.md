@@ -50,11 +50,11 @@ replace `yourname` with your name or github user
  Run the following in gitbash/terminal.
 
  ```
- code wall.txt
+ nano wall.txt
 
  ```
 
-Scroll to the bottom of the file and add the following new section with your name and art:
+Scroll to the bottom of the file and add the following new section with your name and art (ctrl + c/ ctrl + v to copy and paste doesnt work in terminal so use right click menu instead):
 
 ```
 ============================================================
