@@ -49,7 +49,7 @@ replace `yourname` with your name or github user
 
 Open `wall.txt` in a GitHub codespace.
 
-Scroll to the bottom of the file and add a new section with your name and art, for example:
+Scroll to the bottom of the file and add a new section with your name and art, for simplicity you can just copy below:
 
 ```
 ============================================================
