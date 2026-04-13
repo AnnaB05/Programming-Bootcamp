@@ -47,7 +47,7 @@ replace `yourname` with your name or github user
 
 ### Add Your ASCII Art to `wall.txt`
 
-Open `wall.txt` in a GitHub codespace.
+ Run code `wall.txt` in gitbash/terminal.
 
 Scroll to the bottom of the file and add the following new section with your name and art:
 
@@ -79,7 +79,7 @@ git commit -m "Added my art - <username>"
 ### Push Your Branch to GitHub
 
 ```bash
-git push origin add-my-art
+git push origin yourname-art
 ```
 
 ### Open a Pull Request
