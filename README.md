@@ -61,7 +61,8 @@ Scroll to the bottom of the file and add the following new section with your nam
   [add art here]
 
 ```
-To Save: Press Ctrl + O, then hit Enter.
+To Save: Press Ctrl + O, then Enter
+
 To Exit: Press Ctrl + X.
 
 
