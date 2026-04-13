@@ -47,7 +47,12 @@ replace `yourname` with your name or github user
 
 ### Add Your ASCII Art to `wall.txt`
 
- Run code `wall.txt` in gitbash/terminal.
+ Run the following in gitbash/terminal.
+
+ ```
+ code wall.txt
+
+ ```
 
 Scroll to the bottom of the file and add the following new section with your name and art:
 
@@ -87,6 +92,7 @@ git push origin yourname-art
  Go to **your fork** on GitHub (`https://github.com/<username>/Programming-Bootcamp`).
  You should see a banner saying **"Compare & pull request"** — click it.
  Add a short title and description, then click **"Create pull request"**.
+  - make sure you propose the merge to MY repository, not your fork. You should see 'AnnaB05/Programming-Bootcamp'.
  Wait for a maintainer to review and merge your art into the main wall. 🎉
 
 ---
