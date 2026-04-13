@@ -91,9 +91,12 @@ git push origin yourname-art
 
  Go to **your fork** on GitHub (`https://github.com/<username>/Programming-Bootcamp`).
  You should see a banner saying **"Compare & pull request"** — click it.
+
  Add a short title and description, then click **"Create pull request"**.
+
   - make sure you propose the merge to MY repository, not your fork. You should see 'AnnaB05/Programming-Bootcamp'.
- Wait for a maintainer to review and merge your art into the main wall. 🎉
+  
+ Once you've sent the request let me know and I will review and merge your art into the main wall! 🎉
 
 ---
 
