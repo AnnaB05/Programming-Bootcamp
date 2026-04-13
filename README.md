@@ -1,12 +1,7 @@
-# Programming-Bootcamp
+# NSBE Collaborative Art Wall
 
-Collaborative ASCII Art wall for UofL NSBE's Programming Bootcamp Event. Learn Git basics as you contribute your art to the wall!
+Collaborative ASCII Art wall for UofL NSBE's Programming Bootcamp Event. Learn Git basics as you contribute your art to the wall! You can find the wall in the `wall.txt` file. 
 
----
-
-## Our Collaborative Art Wall
-
-You can find our art wall in the `wall.txt` file. 
 ---
 
 ## Instructions
@@ -22,10 +17,10 @@ Open gitbash (Windows) or Terminal (Mac/Linux) and run:
 
  
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/Programming-Bootcamp.git
+git clone https://github.com/<USERNAME>/Programming-Bootcamp.git
 ```
 
-Replace `<YOUR-USERNAME>` with your GitHub username.
+Replace `<USERNAME>` with your GitHub username.
 
 navigate into the repo's folder:
 
@@ -45,9 +40,11 @@ git checkout -b yourname-art
 
 replace `yourname` with your name or github user
 
+---
+
 ### Add Your ASCII Art to `wall.txt`
 
- Run the following in gitbash/terminal.
+ Run the following in gitbash/terminal:
 
  ```
  nano wall.txt
@@ -69,6 +66,8 @@ To Exit: Press Ctrl + X.
 
 
 If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/. (if you pick something from here, please make sure to add a link to it like in the provided examples)
+
+---
 
 ### Stage and Commit Your Changes
 
