@@ -65,7 +65,7 @@ Scroll to the bottom of the file and add the following new section with your nam
 
 ```
 
-If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/. (if you pick sometthing from here, please make sure to add a link to it like in the provided examples)
+If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/. (if you pick something from here, please make sure to add a link to it like in the provided examples)
 
 ### Stage and Commit Your Changes
 
