@@ -4,48 +4,49 @@ Collaborative ASCII Art wall for UofL NSBE's Programming Bootcamp Event. Learn G
 
 ---
 
-## 🖼️ What is the Wall?
+## Our Collaborative Art Wall
 
-`wall.txt` is a shared text file where everyone adds their own ASCII art. Think of it as a collaborative canvas — the more people contribute, the cooler it gets!
-
+You can find our art wall in the `wall.txt` file. 
 ---
 
-## 🚀 How to Contribute (Step-by-Step for Beginners)
+## Instructions
 
-### Step 1 — Fork the Repository
+### Fork the Repository
 
-1. Click the **Fork** button at the top-right of this page.
-2. This creates your own personal copy of the repo under your GitHub account.
+ Click the **Fork** button at the top-right of this page.
+ This makes a copy of the repo under your GitHub account.
 
-### Step 2 — Clone Your Fork
+### Clone Forked Repo
 
-Open a terminal and run:
+Open gitbash (Windows) or Terminal (Mac/Linux) and run:
 
+ 
 ```bash
 git clone https://github.com/<YOUR-USERNAME>/Programming-Bootcamp.git
 ```
 
-Replace `<YOUR-USERNAME>` with your actual GitHub username.
+Replace `<YOUR-USERNAME>` with your GitHub username.
 
-Then navigate into the folder:
+navigate into the repo's folder:
 
 ```bash
 cd Programming-Bootcamp
 ```
 
-### Step 3 — Create a New Branch
+### Create a New Branch
 
-Always work on a new branch so your changes are separate:
+working on a new branch so keeps your changes separate from the main branch, making it easier to catch problems. This also keeps your main branch from breaking.
+use git checkout to create a new branch
 
 ```bash
-git checkout -b add-my-art
+git checkout -b yourname-art
 ```
 
-You can replace `add-my-art` with any short descriptive name you like.
+replace `yourname` with your name or github user
 
-### Step 4 — Add Your ASCII Art to `wall.txt`
+### Add Your ASCII Art to `wall.txt`
 
-Open `wall.txt` in any text editor (Notepad, VS Code, nano, etc.).
+Open `wall.txt` in a GitHub codespace.
 
 Scroll to the bottom of the file and add a new section with your name and art, for example:
 
@@ -54,13 +55,13 @@ Scroll to the bottom of the file and add a new section with your name and art, f
   Your Name Here
 ============================================================
 
-  [paste your ASCII art here]
+  [this is where you can post your art]
 
 ```
 
-Not sure what to draw? Try a simple smiley, your initials, an animal — anything goes! You can find ASCII art inspiration at https://www.asciiart.eu/.
+If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/.
 
-### Step 5 — Stage and Commit Your Changes
+### Stage and Commit Your Changes
 
 Tell Git which file you changed:
 
@@ -68,36 +69,40 @@ Tell Git which file you changed:
 git add wall.txt
 ```
 
-Save your changes with a descriptive message:
+commit your changes with a short message:
 
 ```bash
-git commit -m "Add ASCII art by <YOUR-NAME>"
+git commit -m "Added my art - <username>"
 ```
 
-### Step 6 — Push Your Branch to GitHub
+### Push Your Branch to GitHub
 
 ```bash
 git push origin add-my-art
 ```
 
-### Step 7 — Open a Pull Request
+### Open a Pull Request
 
-1. Go to **your fork** on GitHub (`https://github.com/<YOUR-USERNAME>/Programming-Bootcamp`).
-2. You should see a banner saying **"Compare & pull request"** — click it.
-3. Add a short title and description, then click **"Create pull request"**.
-4. Wait for a maintainer to review and merge your art into the main wall. 🎉
+ Go to **your fork** on GitHub (`https://github.com/<username>/Programming-Bootcamp`).
+ You should see a banner saying **"Compare & pull request"** — click it.
+ Add a short title and description, then click **"Create pull request"**.
+ Wait for a maintainer to review and merge your art into the main wall. 🎉
 
 ---
 
-## 💡 Tips
+## 💡 Tips 
 
-- Keep your ASCII art between the `====` divider lines so the wall stays organized.
-- If you get a **merge conflict**, don't panic! Ask a facilitator for help — resolving conflicts is a great Git skill to learn.
+- Keep your ASCII art between the `====` divider lines so our Board stays organized.
+  
+- If you get a **merge conflict**, ask us for help — merge conflicts are to be expected when collaborating with others in github. Learning how to resolve them is important!
+  
 - You can update your fork at any time. First, add the original repo as a remote (you only need to do this once):
+  
   ```bash
   git remote add upstream https://github.com/AnnaB05/Programming-Bootcamp.git
   ```
   Then pull in the latest changes:
+  
   ```bash
   git fetch upstream
   git merge upstream/main
@@ -105,6 +110,4 @@ git push origin add-my-art
 
 ---
 
-## 📄 License
-
-This project is open for everyone. Have fun and happy coding! 🤖☕
+ Have fun!
