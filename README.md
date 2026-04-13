@@ -49,18 +49,18 @@ replace `yourname` with your name or github user
 
 Open `wall.txt` in a GitHub codespace.
 
-Scroll to the bottom of the file and add a new section with your name and art, for simplicity you can just copy below:
+Scroll to the bottom of the file and add the following new section with your name and art:
 
 ```
 ============================================================
   Your Name Here
 ============================================================
 
-  [this is where you can post your art]
+  [add art here]
 
 ```
 
-If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/.
+If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/. (if you pick sometthing from here, please make sure to add a link to it like in the provided examples)
 
 ### Stage and Commit Your Changes
 
