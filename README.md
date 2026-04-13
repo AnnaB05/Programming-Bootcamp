@@ -106,7 +106,7 @@ git push origin yourname-art
 
 - Keep your ASCII art between the `====` divider lines so our Board stays organized.
   
-- If you get a **merge conflict**, ask us for help — merge conflicts are to be expected when collaborating with others in github. Learning how to resolve them is important!
+- If you get a **merge conflict**, ask us for help. Merge conflicts are to be expected when collaborating with others in github. Learning how to resolve them is important!
   
 - You can update your fork at any time. First, add the original repo as a remote (you only need to do this once):
   
