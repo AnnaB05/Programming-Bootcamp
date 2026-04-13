@@ -64,6 +64,9 @@ Scroll to the bottom of the file and add the following new section with your nam
   [add art here]
 
 ```
+To Save: Press Ctrl + O, then hit Enter.
+To Exit: Press Ctrl + X.
+
 
 If you don't know what to make you can find ASCII art inspiration at https://www.asciiart.eu/. (if you pick something from here, please make sure to add a link to it like in the provided examples)
 
