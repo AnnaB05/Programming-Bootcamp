@@ -35,7 +35,8 @@ cd Programming-Bootcamp
 
 ### Create a New Branch
 
-working on a new branch so keeps your changes separate from the main branch, making it easier to catch problems. This also keeps your main branch from breaking.
+working on a new branch keeps your changes separate from the main branch, making it easier to catch problems. This also keeps your main branch safe from large changes breaking something important.
+
 use git checkout to create a new branch
 
 ```bash
