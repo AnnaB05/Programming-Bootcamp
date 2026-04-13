@@ -89,6 +89,6 @@
   Your Name & Art Here!
 ============================================================
 
-  --> Fork the repo, add your art, and open a Pull Request!
+  add art here
 
 ============================================================
